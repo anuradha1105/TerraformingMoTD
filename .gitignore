@@ -1,0 +1,4 @@
+motd/.terraform/
+motd/terraform.tfstate
+motd/terraform.tfstate.backup
+motd/config/motd.ini
